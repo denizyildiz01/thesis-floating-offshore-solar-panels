@@ -1,0 +1,29 @@
+# MATLAB backup/autosave files
+*.asv
+*.m~
+*.bak
+
+# MATLAB/Simulink generated cache
+slprj/
+*.slxc
+codegen/
+
+# MATLAB crash dumps/logs
+matlab_crash_dump.*
+*.log
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/project settings
+.vscode/
+.idea/
