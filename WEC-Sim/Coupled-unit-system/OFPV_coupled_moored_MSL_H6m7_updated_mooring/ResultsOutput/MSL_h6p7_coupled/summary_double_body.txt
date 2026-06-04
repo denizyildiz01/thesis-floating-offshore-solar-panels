@@ -1,0 +1,39 @@
+Double-body WEC-Sim post-processing summary
+==========================================
+
+Case configuration
+------------------
+Water level : MSL
+Wave height : 6.700 m
+Case name   : coupled
+Output folder:
+C:\Users\deniz\Desktop\deniz\AAA_Thesis\WEC-SIM\FOPV_coupled_moored_FINAL_current01_MSL_h67\ResultsOutput\MSL_h6p7_coupled
+
+Number of bodies in output: 2
+
+Body 1
+Maximum absolute motions:
+  surge  : 3.84018
+  sway   : 0.913912
+  heave  : 5.91774
+  roll   : 0.0719433
+  pitch  : 0.273339
+  yaw    : 0.1411
+
+Body 2
+Maximum absolute motions:
+  surge  : 29.7656
+  sway   : 1.25044
+  heave  : 5.19752
+  roll   : 0.0846151
+  pitch  : 0.0827472
+  yaw    : 0.0465912
+
+Relative motion: Body 2 minus Body 1
+Maximum absolute relative motions:
+  surge  : 26.0194
+  sway   : 1.2186
+  heave  : 2.127
+  roll   : 0.124711
+  pitch  : 0.321126
+  yaw    : 0.176619

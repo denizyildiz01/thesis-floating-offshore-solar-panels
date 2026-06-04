@@ -1,0 +1,39 @@
+Double-body WEC-Sim post-processing summary
+==========================================
+
+Case configuration
+------------------
+Water level : LAT
+Wave height : 1.500 m
+Case name   : coupled_45
+Output folder:
+C:\Users\deniz\Desktop\deniz\AAA_Thesis\WEC-SIM\FOPV_coupled_moored_FINAL_current01_lat_h15_45d\ResultsOutput\LAT_h1p5_coupled_45
+
+Number of bodies in output: 2
+
+Body 1
+Maximum absolute motions:
+  surge  : 0.182859
+  sway   : 0.234349
+  heave  : 4.1
+  roll   : 0.037787
+  pitch  : 0.0402346
+  yaw    : 0.0112628
+
+Body 2
+Maximum absolute motions:
+  surge  : 25.8843
+  sway   : 0.268667
+  heave  : 4.1
+  roll   : 0.0386655
+  pitch  : 0.0217263
+  yaw    : 0.0151832
+
+Relative motion: Body 2 minus Body 1
+Maximum absolute relative motions:
+  surge  : 25.7482
+  sway   : 0.332476
+  heave  : 0.559174
+  roll   : 0.05287
+  pitch  : 0.0442504
+  yaw    : 0.0158295
